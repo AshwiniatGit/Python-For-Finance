@@ -1,0 +1,2 @@
+# Python-For-Finance
+Learning to use Python for Financial Analysis. The Following sample codes are a part of exercises of a course on Udemy. <br>Every folder contains atleast 3 type of Files : Jupyter(.ipynb), HTML (.html), Markdown(.md). To view the content of the file in Github you can open the .md file. This way you can view the snippets of code with the output of each. In case the Markdown file is showing some formatting issues, you can download the HTML file and view it in a browser
